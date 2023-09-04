@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ooredo</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="user_name1">User Name</string>
+    <string name="please_login_to_continue_on_oreedo_fos">Please login to Continue on oreedo FOS</string>
+    <string name="hello_again">Hello Again!</string>
+    <string name="password1">Password</string>
+    <string name="todo">TODO</string>
+    <string name="label">label</string>
+
+
+</resources>
+
+
